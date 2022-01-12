@@ -1,0 +1,50 @@
+body{
+    font-family: Arial;
+    margin: 0;
+}
+nav{
+    height: 70px;
+    display: flex;
+}
+.secondary-block{
+    color: white;
+    background-color: rgb(4, 117, 186);
+}
+a{
+    color: white;
+}
+nav h2{
+    margin: 0;
+    padding:20px 0px 20px 15px
+}
+nav ul{
+    display: flex;
+    margin: 0;
+    padding: 24px;
+    list-style: none;
+}
+nav li{
+    margin-left: 15px;
+}
+header{
+    text-align: center;
+    padding: 40px;
+}
+.content{
+    max-width: 800px;
+    margin:O auto
+}
+header h2{
+    color: rgb(4, 117, 186);
+}
+header img{
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px rgb(170, 170, 170);
+    width: 150px;
+}
+section{
+    padding: 40px;
+}
+#xp{
+    text-justify: ;
+}
